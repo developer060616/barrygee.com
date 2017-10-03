@@ -1,0 +1,31 @@
+{ 
+  "information": "Items", 
+  "count": 5, 
+  "items": [
+    {
+      "name": "Item 1",
+      "price": 0.50,
+      "instock": true
+    },
+    {
+      "name": "Item 2",
+      "price": 1.50,
+      "instock": false
+    },
+    {
+      "name": "Item 3",
+      "price": 5.00,
+      "instock": true
+    },
+    {
+      "name": "Item 4",
+      "price": 2.75,
+      "instock": true
+    },
+    {
+      "name": "Item 5",
+      "price": 1.50,
+      "instock": false
+    }
+  ]
+}
